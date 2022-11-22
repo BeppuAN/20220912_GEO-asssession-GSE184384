@@ -4,12 +4,14 @@ scRNA script used to generate data for GEO asssession: GSE184384
 1. System Requirements
 Hardware Requirements
 Data were generated using the following computer specs:
-Processor: Intel® Core™ i5-5575R Processor,
+Processor: Intel® Core™ i5-5575R Processor
+
 RAM: 16+ GB
 
 Sofware Requirements
 Majority of data was generated on either Mac or Windows operating systems
 Mac OSX:
+
 Windows:
 
 All packages used were compatiable with Mac and Windows Operating systems.
